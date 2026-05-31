@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full stack developer
+# About Me:
+Currently a Computer Science student at the Federal University Of Paraíba (UFPB) and trying full stack development in free times.
 
 
 ## 🌐 Socials:
